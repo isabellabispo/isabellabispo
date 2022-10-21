@@ -3,16 +3,15 @@
 
 <div align=center>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellabispo&show_icons=true&theme=radical">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellabispo&layout=compact&theme=radical">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellabispo&show_icons=true&theme=radical">s<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellabispo&layout=compact&theme=radical">
 
 </div>
 <br>
 
-<h3 align=center  style="font-family: montserrat">Tecnologias do meu dia-a-dia </h3>
+<h3 align="center"  style="font-family: montserrat"> Tecnologias do meu dia-a-dia </h3>
 
 <br>
-<div align=center>
+<div align="center">
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )
