@@ -1,4 +1,4 @@
-✨✨ Bem vido(a) ao meu perfil do Github! ✨✨ 
+✨✨ Bem vido(a) ao meu perfil! ✨✨ 
 
 
 <div align=center>
