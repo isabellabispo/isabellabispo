@@ -1,9 +1,9 @@
-✨✨ Bem vido(a) ao meu perfil! ✨✨ 
+<h1 align=center> ✨✨ Bem vido(a) ao meu perfil! ✨✨ </h1> 
 <br>
 
 <div align=center>
 
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabellabispo&show_icons=true&theme=radical">
+   <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabellabispo&show_icons=true&theme=radical"> d -->
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellabispo&layout=compact&theme=radical"> 
 
 </div>
